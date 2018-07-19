@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	gojade "github.com/go-floki/jade"
+	gojade "github.com/zhuharev/jade"
 	"gopkg.in/macaron.v1"
 )
 
